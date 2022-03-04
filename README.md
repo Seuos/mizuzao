@@ -1,8 +1,8 @@
 ### Opa! Eu sou o Kauan, mas podem me chamar de mizu
 
-- 🔭 Atualmente estou me preparando para cursar alguma faculdade
-- 🌱 Pretendo começar a estudar javascript e python
-- 💻 Futuro programador de jogos e aplicativos
+- Atualmente estou me preparando para cursar alguma faculdade
+- Pretendo começar a estudar javascript e python
+- Futuro programador de jogos e aplicativos
 - Discord: mizuzão#0460
 
 ##
