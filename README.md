@@ -3,7 +3,7 @@
 - Atualmente estou me preparando para cursar alguma faculdade
 - Pretendo começar a estudar javascript e python
 - Futuro programador de jogos e aplicativos
-- Discord: mizuzão#0460
+- Discord: ProcuroTrampo#0460
 
 ##
  
